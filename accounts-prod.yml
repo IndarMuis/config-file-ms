@@ -1,9 +1,9 @@
 build:
   version: "2.0"
 accounts:
-  message: "Welcome to EazyBank accounts related Production Env APIs "
+  message: "Welcome to EazyBank accounts related Production APIs "
   contactDetails:
-    name: "John Doe - Prod"
+    name: "John Doe - Production"
     email: "{cipher}826ca304e9896bbb03253a916955605a2b69ceda98259a306eb00769f6b4fb2318f862f6e9ebd3a6f2a035d3f64a2811"
   onCallSupport:
     - (555) 555-1234
